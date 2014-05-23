@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Intuitive Genesis child Theme
+ Theme URI:    http://space-rocket.com/intuitive-writing-project/
+ Description:  The Intuitive Genesis child Theme, a Genesis child theme.
+ Author:       Space-Rocket
+ Author URI:   http://space-rocket.com
+ Template:     Genesis
+ Version:      1.0.0
+ Tags:         young, colorful, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  intuitive
+*/
+
+@import url("../genesis/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
